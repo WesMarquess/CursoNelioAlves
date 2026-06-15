@@ -1,6 +1,6 @@
-package lambda.ex001.programm;
+package Lambda.ex001.programm;
 
-import lambda.ex001.model.Product;
+import Lambda.ex001.model.Product;
 
 import java.util.ArrayList;
 import java.util.List;

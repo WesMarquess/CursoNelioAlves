@@ -1,7 +1,6 @@
-package lambda.ex001.model;
+package Lambda.Ex003.model;
 
 public class Product {
-
     private String name;
     private Double price;
 
@@ -30,7 +29,7 @@ public class Product {
     public String toString() {
         return "Product{" +
                 "name='" + name + '\'' +
-                ", price=" + price +
+                ", price=" + price %.2f +
                 '}';
     }
 }

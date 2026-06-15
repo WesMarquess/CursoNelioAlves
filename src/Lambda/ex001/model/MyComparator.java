@@ -1,4 +1,4 @@
-package lambda.ex001.model;
+package Lambda.ex001.model;
 
 import java.util.Comparator;
 
